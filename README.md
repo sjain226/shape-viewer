@@ -10,6 +10,8 @@ This project is a **Shape Viewer Application** built with React and designed to 
 5. [Testing the Application](#testing-the-application)
 6. [Usage](#usage)
 7. [Recommended VSCode Extensions](#recommended-vscode-extensions)
+8. [References](#references)
+9. [Goals Completed](#goals-completed)
 
 
 
@@ -138,8 +140,14 @@ To enhance your development experience in VSCode, install the following extensio
    [streetsidesoftware.code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)  
    Catches spelling mistakes in your code and comments.
 
-## References
+## Goals Completed
+- Implemented all 5 iterations of the project.
+- Implemented 3 Bonus features:
+    1. Shape Translation - Save As
+    2. Shape Creation - Save As
+    3. Extra Features - Undo
 
+## References
 - https://stackoverflow.com/questions/25547475/save-to-local-file-from-blob
 - https://emojidb.org/add-emojis?utm_source=user_search [for emojis]
 - https://medium.com/nerd-for-tech/simple-drag-and-drop-in-react-without-an-external-library-ebf1c1b809e
