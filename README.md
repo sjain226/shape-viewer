@@ -10,9 +10,8 @@ This project is a **Shape Viewer Application** built with React and designed to 
 5. [Testing the Application](#testing-the-application)
 6. [Usage](#usage)
 7. [Recommended VSCode Extensions](#recommended-vscode-extensions)
-8. [References](#references)
-9. [Goals Completed](#goals-completed)
-
+8. [Goals Completed](#goals-completed)
+9. [References](#references)
 
 
 ## Features
