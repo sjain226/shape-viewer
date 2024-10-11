@@ -1,6 +1,6 @@
 # Shape Viewer Application
 
-This project is a **Shape Viewer Application** built with React and designed to be run and developed in **Visual Studio Code (VSCode)**. The application allows users to load, view, create, edit, and save shapes while supporting drag-and-drop functionality for manipulating shapes within a viewport for enhanced interactivity.
+This project is a **Shape Viewer Application** built with React and designed to be run and developed in **Visual Studio Code (VSCode)**. The application allows users to load, view, add, undo, and save shapes while supporting drag-and-drop functionality for manipulating shapes within a viewport for enhanced interactivity.
 
 ## Table of Contents
 1. [Features](#features)
